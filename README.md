@@ -1,3 +1,5 @@
+GUESS THE NUMBER GAME!
+
 Might be lacking proper structure, but this program does the following:
 
 1. Generates a random number and stores it in a variable
